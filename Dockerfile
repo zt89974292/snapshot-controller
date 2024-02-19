@@ -1,1 +1,1 @@
-From k8s.gcr.io/sig-storage/snapshot-controller:v3.0.3
+From registry.k8s.io/sig-storage/snapshot-controller:v6.3.3
